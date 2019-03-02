@@ -1,0 +1,11 @@
+D:\Drive\sky-inmotion\code\SkyDailyExtract\SkyDailyExtract\bin\Debug\SkyDailyExtract.exe
+D:\Drive\sky-inmotion\code\SkyDailyExtract\SkyDailyExtract\bin\Debug\Newtonsoft.Json.dll
+D:\Drive\sky-inmotion\code\SkyDailyExtract\SkyDailyExtract\bin\Debug\RestSharp.dll
+D:\Drive\sky-inmotion\code\SkyDailyExtract\SkyDailyExtract\bin\Debug\SkyDailyExtract.exe.config
+D:\Drive\sky-inmotion\code\SkyDailyExtract\SkyDailyExtract\bin\Debug\SkyDailyExtract.pdb
+D:\Drive\sky-inmotion\code\SkyDailyExtract\SkyDailyExtract\bin\Debug\Newtonsoft.Json.xml
+D:\Drive\sky-inmotion\code\SkyDailyExtract\SkyDailyExtract\obj\Debug\SkyDailyExtract.csproj.CoreCompileInputs.cache
+D:\Drive\sky-inmotion\code\SkyDailyExtract\SkyDailyExtract\obj\Debug\SkyDailyExtract.csproj.CopyComplete
+D:\Drive\sky-inmotion\code\SkyDailyExtract\SkyDailyExtract\obj\Debug\SkyDailyExtract.exe
+D:\Drive\sky-inmotion\code\SkyDailyExtract\SkyDailyExtract\obj\Debug\SkyDailyExtract.pdb
+D:\Drive\sky-inmotion\code\SkyDailyExtract\SkyDailyExtract\obj\Debug\SkyDailyExtract.csprojAssemblyReference.cache
